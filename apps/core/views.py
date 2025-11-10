@@ -20,6 +20,7 @@ def calculate_compound_interest(initial_investment, monthly_contribution, annual
     Returns: dict with final value, total contributions, interest earned, growth multiple, and yearly data
     """
     pass
+
 def investment_calculator(request):
     # Default values
     initial_investment = 10000
