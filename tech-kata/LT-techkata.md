@@ -33,6 +33,12 @@ Ensure npm install executes successfully
 ./start.sh
 ```
 
+If you get permission denied, run:
+```bash
+chmod +x ./start.sh
+./start.sh
+```
+
 Ensure the application runs successfully before proceeding with the tasks.
 
 **2. Project Structure Overview**
